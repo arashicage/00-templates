@@ -16,4 +16,4 @@ mkdir -p public/less
 mkdir -p public/plugins
 mkdir -p routers
 mkdir -p scripts
-mkdir -p templeates
+mkdir -p templates
